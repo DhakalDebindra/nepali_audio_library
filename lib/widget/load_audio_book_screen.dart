@@ -52,10 +52,11 @@ class LoadAudioBookScreen extends StatelessWidget {
             color: Colors.black87,
           ),
           child: Card(
+            color: Colors.black,
             child: ListTile(
               title: Text(
                 state.audioBooks[index].bookTitle,
-                style: TextStyle(fontSize: 28, fontWeight: FontWeight.bold),
+                style: TextStyle(fontSize: 28, fontWeight: FontWeight.bold, color: Colors.white),
               ),
               subtitle: Text(
                 state.audioBooks[index].bookLabel,
