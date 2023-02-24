@@ -1,7 +1,16 @@
-# Nepali Audio Library
+# nepali_audio_library
 
-An audio library app written using Flutter which aims to facilitate Nepali visually impaired individuals to have audiobooks in their hands/pockets! Our goal is to build a centralized audio library hub which facilitates visually impaired students locate/access curriculum centric books and course contents from their smartphones including Android and iOS in an easy and accessible fashion.
+A new Flutter project.
 
-## Contributions
+## Getting Started
 
-Please note that this is a total effort by visually impaired programmers, and blind accessibility is seriously accounted into consideration. However, if you are someone who is passionate to maintain or add additional functionalities, we heartly welcome your contributions!
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
